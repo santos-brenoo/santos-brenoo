@@ -3,10 +3,8 @@
 <p align="center">I ❤️ solve great challenges using tech. <br><br>I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>mid-level analytics engineer</strong> with a strong background in ETL development, data pipeline automation, dashboard creation, and data analysis.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-  <a href="https://github.com/santos-brenoo">
-  <img height=55% align="center" src="https://github-readme-stats.vercel.app/api?username=santos-brenoo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height=45% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santos-brenoo&layout=compact&langs_count=7&theme=dracula"/>
-  <! <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santos-brenoo&layout=compact&langs_count=7&theme=dracula"/>
+  <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=santos-brenoo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width=49% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santos-brenoo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 &nbsp;
