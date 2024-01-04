@@ -1,35 +1,59 @@
 # Hi, I'm Breno ✌️
 
-I am an Analytics Engineer with a strong background in ETL development, data pipeline automation, dashboard creation, and data analysis. I have knowledge of a variety of databases, including PostgreSQL, MySQL, SQL Server, and BigQuery. Additionally, I am proficient in programming languages such as Python and frameworks like Apache Spark. I have experience using data visualization tools such as Power BI, Zoho Analytics, and Metabase. I have worked with cloud platforms like AWS and GCP, utilizing data tools such as Apache Airflow, Kafka, Databricks and Airbyte.
+<p align="center">I ❤️ solve great challenges using tech. <br><br>I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>mid-level analytics engineer</strong> with a strong background in ETL development, data pipeline automation, dashboard creation, and data analysis.</p>&nbsp;
 
-<div>
+<div  align="center" style="margin-bottom:100px">
   <a href="https://github.com/santos-brenoo">
-  <img height="166em" src="https://github-readme-stats.vercel.app/api?username=santos-brenoo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santos-brenoo&layout=compact&langs_count=7&theme=dracula"/>
+  <img height=55% align="center" src="https://github-readme-stats.vercel.app/api?username=santos-brenoo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height=45% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santos-brenoo&layout=compact&langs_count=7&theme=dracula"/>
   <! <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santos-brenoo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-  ##
-<div style="display: inline_block">
-  <br>
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-    <img align="center" alt="Apache Spark" height="30" width="60" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170561.png" />
-    <img align="center" alt="SQL" height="30" width="40" src="https://www.freeiconspng.com/uploads/sql-server-icon-8.png" />
-    <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-    <img align="center" alt="AWS" height="28" width="28" src="https://avatars.githubusercontent.com/AWS" />
-    <img align="center" alt="GCP" height="28" width="28" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_cloud_logo_icon_171058.png" />
-    <img align="center" alt="Airflow" height="26" width="28" src="https://avatars.githubusercontent.com/u/33643075?s=280&v=4" />
-    <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-    <img align="center" alt="PowerBI" height="35" width="70" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_powerbi_logo_icon_169958.png" />
-    <img align="center" alt="Metabase" height="40" width="80" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/metabase_logo_icon_168103.png" />
-    <img align="center" alt="GIT" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-</div>
+&nbsp;
+&nbsp;
+
+## My Skills
+
+#### Main Stack:
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Pyspark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)&nbsp;
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=fff)&nbsp;
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)&nbsp;
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)&nbsp;
+![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)&nbsp;
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+#### Secondary Stack:
+
+![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+
+#### Studying in this moment:
+
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+
+#### Databases:
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
   
- ##
+## Contacts:
+ 
 <div>
   <a href="https://au.linkedin.com/in/breno-santos-03983a202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:bls.10@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:bls.10@hotmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <div/>
 
               
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
