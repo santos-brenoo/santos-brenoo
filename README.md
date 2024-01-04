@@ -12,19 +12,18 @@ I am an Analytics Engineer with a strong background in ETL development, data pip
   ##
 <div style="display: inline_block">
   <br>
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="SQL" height="30" width="40" src="https://www.freeiconspng.com/uploads/sql-server-icon-8.png">
-    <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+    <img align="center" alt="Apache Spark" height="30" width="60" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170561.png" />
+    <img align="center" alt="SQL" height="30" width="40" src="https://www.freeiconspng.com/uploads/sql-server-icon-8.png" />
+    <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+    <img align="center" alt="AWS" height="28" width="28" src="https://avatars.githubusercontent.com/AWS" />
+    <img align="center" alt="GCP" height="28" width="28" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_cloud_logo_icon_171058.png" />
     <img align="center" alt="Airflow" height="26" width="28" src="https://avatars.githubusercontent.com/u/33643075?s=280&v=4" />
     <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-    <img align="center" alt="Terraform" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_terraform_icon_130125.png" />
-    <img align="center" alt="Apache Nifi" height="30" width="60"  src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_nifi_logo_icon_167863.png">
-    <img align="center" alt="GIT" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img align="center" alt="PowerBI" height="35" width="70" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_powerbi_logo_icon_169958.png" />
+    <img align="center" alt="Metabase" height="40" width="80" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/metabase_logo_icon_168103.png" />
+    <img align="center" alt="GIT" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </div>
   
  ##
