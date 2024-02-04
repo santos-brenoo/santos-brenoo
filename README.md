@@ -1,6 +1,6 @@
-# Hi, I'm Breno ✌️
+# Hi, I'm Breno.
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br>I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>mid-level analytics engineer</strong> with a strong background in ETL development, data pipeline automation, dashboard creation, and data analysis.</p>&nbsp;
+<p align="center">I solve great challenges using tech. <br><br>I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>mid-level analytics engineer</strong> with a strong background in ETL development, data pipeline automation, dashboard creation, and data analysis.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
   <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=santos-brenoo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
